@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/🖥_Language-Java_-orange?logo=openjdk)
 ![IDE](https://img.shields.io/badge/💻_IDE-Eclipse-blue?logo=eclipse)
-![Application](https://img.shields.io/badge🚘_Application-Console-green)
+![Application](https://img.shields.io/badge/🚘_Application-Console-purple)
 ![Concepts](https://img.shields.io/badge/📘_Concepts-OOP_Classes_Methods-red)
 ![Status](https://img.shields.io/badge/✅_Status-Completed-brightgreen)
 ![Commit](https://img.shields.io/badge/🕒_Commit-First_Commit-yellow)
